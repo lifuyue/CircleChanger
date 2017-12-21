@@ -12,7 +12,6 @@ import random
 import sys
 import time
 import m1t_test_CircleChanger as m1_tests
-import math
 
 ########################################################################
 # IMPORTANT:
